@@ -2,6 +2,6 @@
 
 **Nombre:** Iván Steven Cuero Martínez
 
-**Cedula:** 1113686940
+**Cédula:** 1113686940
 
 **Programa:** Ingeniería Industrial
