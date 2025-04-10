@@ -1,0 +1,1 @@
+# AI_2024.2_CompetenciaKaggle
