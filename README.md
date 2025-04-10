@@ -1,4 +1,4 @@
-# AI_2024.2_CompetenciaKaggle
+# AI_2025.1_CompetenciaKaggle
 
 **Nombre:** Iván Steven Cuero Martínez
 
